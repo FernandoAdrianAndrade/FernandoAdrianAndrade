@@ -1,10 +1,9 @@
-- Hola soy Fernando Adrian, estudiante de Matematicas Aplicadas y Computación, estoy realmente interesado en el desarrollo de software,
-me interesa mucho el procesamiento de lenguaje natural, también estoy interesado en el desarrollo movil. :wave: :grinning:
+- Hola soy Fernando Adrian, egresado de Matematicas Aplicadas y Computación, actualmente me encuentro trabajando dentro de Citi como desarrollador intermedio y analista de aplicación relacionadas al Bussines Inteligence
+-  estoy realmente interesado en la ingeniería de datos y el Big Data. :wave: :grinning:
 
-- Actualmente estoy aprendiendo más sobre el procesamiento de lenguaje natural y sus usos en la investigación de mercados. :thought_balloon:
+- Actualmente estoy aprendiendo más sobre el manejo de datos usando herramientas en la nube.:thought_balloon:
 
-- Me gustaría aprender y colaborar en GNU/Linux, ya que me parece una de los mejores proyectos existentes actualmente y me gustaría fuera más popular
-en computadoras portatiles. :eyes:
 
 - Si deseas contactar conmigo puedes usar el correo electronico: fernando.adrian1405@gmail.com :email:
+- O bien podrias buscarme en mi número celular: 55 8299 2236 📞
 
